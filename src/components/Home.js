@@ -3,7 +3,7 @@ import './Home.css'
 import PostCard from './PostCard';
 import { db } from '../firebase/config';
 import { getDocs, collection } from 'firebase/firestore';
-import { db } from '../firebase/config';
+
 
 import useTitle from './hooks/useTitle';
 const Home = () => {
