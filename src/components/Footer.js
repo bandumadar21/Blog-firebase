@@ -7,7 +7,7 @@ const Footer = () => {
              
                 <div className="text-center p-3" style={{backgroundColor:'rgba(0, 0, 0, 0.2)'}}>
                     © 2023 Copyright:
-                    <Link className="text-dark " href="/" style={{textDecoration:'none'}}>Blog-Madar</Link>
+                    <Link className="text-dark " href="/" style={{textDecoration:'none'}}>Madar</Link>
                 </div>
 
             </footer>
